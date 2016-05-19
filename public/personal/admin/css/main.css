@@ -1,0 +1,58 @@
+body{
+	background: #f0f0f0;
+	font-family: "Poiret One", cursive;
+}
+/*Fuentes -------------*/
+@font-face{
+	font-family: "Poiret One"; 
+	src: url(../fuentes/PoiretOne-Regular.ttf) format("truetype");
+}
+@font-face { 
+	font-family: "DJB_Yard_Sale_Marker"; 
+	src: url(../fuentes/DJB_Yard_Sale_Marker.otf) format("truetype"); 
+}
+@font-face { 
+	font-family: "Lobster Two"; 
+	src: url(../fuentes/LobsterTwo-Regular.ttf) format("truetype"); 
+}
+h1{
+	font-family: "DJB_Yard_Sale_Marker", cursive;
+	color: orange;
+	font-weight: bold;
+}
+h3{
+	font-family: "Lobster Two", cursive;
+	font-weight: bold;
+}
+h2,h4,h5,h6{ 
+	color: #444;
+	/*font-family: 'Lobster Two', cursive; */
+}
+footer{
+	background: #222;
+	padding: 20px;
+	margin-top: 100px;
+	color: #fff;
+}
+.page{
+	background: #fff;
+	border-radius: 1em;
+	margin: 1em;
+	min-height: 400px;
+	padding: 1em;
+}
+ul.developers li{
+  display: inline-block;
+  margin-right: 20px;
+}
+.icon-home
+{
+    color: #666;
+    font-size: 60px;
+    margin: 20px;
+}
+
+.btn-home-admin
+{
+    font-size:25px;
+}

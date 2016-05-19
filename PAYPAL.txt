@@ -1,0 +1,9 @@
+Tarjeta de Credito Generada
+
+Tipo: Visa
+
+4456241305395544
+
+CVV2/CVC2: 813
+
+Fecha: 01/2017
