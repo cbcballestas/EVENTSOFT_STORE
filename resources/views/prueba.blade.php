@@ -1,2 +1,2 @@
-<h1>Pagina de prueba</h1>
-Ésta es una pagina de prueba para verificar commits y push en github actualizada por sublime text con laravel
+<h1>Prueba para GITHUB</h1>
+Ésta es una pagina de prueba para verificar commits y push en github actualizada con proyecto Laravel en sublime text
