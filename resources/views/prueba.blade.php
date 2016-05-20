@@ -1,2 +1,2 @@
 <h1>Pagina de prueba</h1>
-saludos desde la tierra del ba da fuck yoy
+Ésta es una pagina de prueba para verificar commits y push en github actualizada por sublime text con laravel
