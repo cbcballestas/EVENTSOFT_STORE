@@ -64,10 +64,12 @@
 				Total: ${{number_format($total,2)}}
 			</span>
 			</h3>
-				@else
-					<h3><span class="label label-warning">No hay productos en el carrito &nbsp;<i class="fa fa-frown-o" aria-hidden="true"></i>.
-					</span></h3>
-				@endif
+		    @else
+				<h3>
+					<span class="label label-warning">No hay productos en el carrito &nbsp;<i class="fa fa-frown-o" aria-hidden="true"></i>.
+					</span>
+				</h3>
+		    @endif
 		</div>
 		<hr>
 		<p>
