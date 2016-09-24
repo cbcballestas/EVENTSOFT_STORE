@@ -32,4 +32,16 @@ class SaveUserRequest extends Request
             'type'      => 'required|in:user,admin'
         ];
     }
+
+    public function messages()
+    {
+        return [
+            'name.required' => 'El campo nombre es obligatorio',
+            'last_name.required' => 'El campo apellidos es obligatorio',
+            'email.required' => 'El campo email es obligatorio',
+            'email.unique' => 'El email digitado ya existe',
+            'user.required' => 'El nombre de usuario es obligatorio',
+            'password.required' => 'Debe ingresar una contraseña',
+        ];
+    }
 }
